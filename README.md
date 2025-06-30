@@ -1,4 +1,4 @@
-# 👋Taeuk Kang 
+# 👋Hello my name is Taewook Kang
 
 ## 🙋‍♂️ About Me
 - 🎓 세종대학교 전기전자통신공학과
