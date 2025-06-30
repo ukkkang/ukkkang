@@ -1,6 +1,4 @@
-# 👋 안녕하세요! 저는 태욱입니다.
-
-![My porfile Image](./profile2.jpg)
+# 👋 HEllO MY NAME IS TaeUK Kang!!
 
 ## 🙋‍♂️ About Me
 - 🎓 세종대학교 전기전자통신공학과
