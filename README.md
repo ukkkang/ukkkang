@@ -1,16 +1,24 @@
-## Hi there 👋
+#👋 안녕하세요! 저는 태욱입니다.
 
-<!--
-**ukkkang/ukkkang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My porfile Image](./profile.jpg)
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+- 🎓 세종대학교 전기전자통신공학과
+- ⚡️ 관심사: 반도체, 인공지능, 화질 개선 기술, 회로 설계
+- ✈️ 목표: 실무에서 경험 쌓고 반도체 및 AI 분야로 진로 확장하기
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ## 🎯 What I Like
+- 🧑‍💻 코딩과 새로운 기술 배우기
+- 🎮 게임과 넷플릭스
+- 🎵 음악 감상과 드라이브
+- 📷 사진 찍기
+
+- ## 🛠️ Tech Stack
+- `Python`, `TensorFlow`, `Keras`
+- `Verilog`, `VHDL`
+- `PyCharm`, `Jupyter`, `PSpice`
+
+- ## 📫 Contact Me
+- ✉️ 이메일: ktu0743@naver.com
+- 📸 Instagram : - [@uktae_23](https://instagram.com/uktae_23)
+
