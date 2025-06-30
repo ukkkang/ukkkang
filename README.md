@@ -1,6 +1,6 @@
 # 👋 안녕하세요! 저는 태욱입니다.
 
-![My porfile Image](./profile.jpg)
+![My porfile Image](./profile2.jpg)
 
 ## 🙋‍♂️ About Me
 - 🎓 세종대학교 전기전자통신공학과
