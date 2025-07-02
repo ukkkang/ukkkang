@@ -1,5 +1,7 @@
 # 👋Hello my name is Taewook Kang
 
+![Image](https://github.com/user-attachments/assets/17a7b1c2-dd56-402f-ad7b-f5d0ed6a3a41)
+
 ## 🙋‍♂️ About Me
 - 🎓 세종대학교 전기전자통신공학과
 - ⚡️ 관심사: 반도체, 인공지능, 화질 개선 기술, 회로 설계
